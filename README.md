@@ -1,5 +1,4 @@
-# Code for the paper **Theory and Algorithms for Solving the Multivariate Linear Model With a Unified Framework: From $\ell^1$-Norm Approximation
-to $\ell^1$-Norm Optimization** published in IEEE Access
+# Code for the paper **Theory and Algorithms for Solving the Multivariate Linear Model With a Unified Framework: From $\ell^1$-Norm Approximation to $\ell^1$-Norm Optimization** published in IEEE Access
 -**Author**: Zhi-Qiang Feng, Hong-Yan Zhang, et al.
 -**Title**: Theory and Algorithms for Solving the Multivariate Linear Model With a Unified Framework: From $\ell^1$-Norm Approximation
 to $\ell^1$-Norm Optimization
