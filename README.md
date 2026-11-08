@@ -1,10 +1,9 @@
 # Code for the paper **Theory and Algorithms for Solving the Multivariate Linear Model With a Unified Framework: From $\ell^1$-Norm Approximation to $\ell^1$-Norm Optimization** published in IEEE Access
-  
   -**Author**: Zhi-Qiang Feng, Hong-Yan Zhang, et al.
   -**Title**: Theory and Algorithms for Solving the Multivariate Linear Model With a Unified Framework: From $\ell^1$-Norm Approximation to $\ell^1$-Norm Optimization
   -**Journal**: IEEE Access
   -**Volume-Number-Pages**: 14(7): 105143-105165
-  -**Link for Download**: https://ieeexplore.ieee.org/abstract/document/11603347
+  -**Link for Download**: https://ieeexplore.ieee.org/abstract/document/11603347  
   -**Abstract**: It is a challenging problem to solve the multivariate linear model (MLM) $Ax = b$ with the $\ell^1$-norm approximation method such that $||Ax-b||_1$, 
 the $\ell^1$-norm of the residual error vector (REV), is minimized. In this work, our contributions lie in three aspects: firstly, a REV-based equivalence theorem
 for the structure of the $\ell^1$-norm optimal solution to the MLM is proposed and proved, which establishes a theoretical connection between MLM $\ell^1$-norm 
